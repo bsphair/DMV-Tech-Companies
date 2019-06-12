@@ -9,8 +9,8 @@ with open('companyList.csv') as csv_file:
 
     mdFile = open("README.md", "w")
 
-    mdFile.write("# MVA Tech Companies\n\n")
-    mdFile.write("This is a list of tech companies in the Maryland-Virginia-DC (MVA) region. To make an update, please update the csv file and submit a pull request.\n\n")
+    mdFile.write("# DMV Tech Companies\n\n")
+    mdFile.write("This is a list of tech companies in the DC-Maryland-Virginia (DMV) region. To make an update, please update the csv file and submit a pull request.\n\n")
     mdFile.write("Last updated: " + date + "\n\n")
 
     csv_reader = csv.reader(csv_file, delimiter=',')

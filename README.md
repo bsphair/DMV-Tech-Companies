@@ -1,6 +1,6 @@
-# MVA Tech Companies
+# DMV Tech Companies
 
-This is a list of tech companies in the Maryland-Virginia-DC (MVA) region. To make an update, please update the csv file and submit a pull request.
+This is a list of tech companies in the DC-Maryland-Virginia (DMV) region. To make an update, please update the csv file and submit a pull request.
 
 Last updated: June 12, 2019
 
