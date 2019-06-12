@@ -133,5 +133,5 @@ Last updated: June 12, 2019
 | Zerocycle                                    |                    |         | http://www.zerocycle.co/#home      |            |
 
 
-## To Create Table in README
-http://www.tablesgenerator.com/markdown_tables
+Table Created via:
+* http://www.tablesgenerator.com/markdown_tables
