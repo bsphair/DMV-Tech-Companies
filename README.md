@@ -1,5 +1,10 @@
-# MVA-Tech-Companies
+# MVA Tech Companies
 
+This is a list of tech companies in the Maryland-Virginia-DC (MVA) region. To make an update, please update the csv file and submit a pull request. 
+
+Last updated: June 12, 2019
+
+***
 
 | Company                                      | City, State        | Address | Website                            | Tech Stack |
 |----------------------------------------------|--------------------|---------|------------------------------------|------------|
@@ -13,8 +18,6 @@
 | agencyQ                                      |                    |         |                                    |            |
 | AINS                                         |                    |         |                                    |            |
 | Amazon                                       |                    |         |                                    |            |
-| Amazon                                       |                    |         |                                    |            |
-| Amazon                                       |                    |         |                                    |            |
 | Amdex Corporation                            | Bethesda, MD       |         |                                    |            |
 | American Institute of Research               |                    |         |                                    |            |
 | Arcadia Power                                |                    |         | https://www.arcadiapower.com/      |            |
@@ -23,7 +26,6 @@
 | B.F. Saul                                    | Bethesda, MD       |         |                                    |            |
 | Bethesda Studios                             |                    |         |                                    |            |
 | Blue Raster                                  | Reston, Va         |         |                                    |            |
-| Boeing                                       |                    |         |                                    |            |
 | Boeing                                       |                    |         |                                    |            |
 | Booz Allen                                   |                    |         |                                    |            |
 | C-Quest Capital                              |                    |         | https://cquestcapital.com/         |            |
@@ -129,3 +131,7 @@
 | Yext                                         |                    |         |                                    |            |
 | Zachary Piper Solutions                      |                    |         |                                    |            |
 | Zerocycle                                    |                    |         | http://www.zerocycle.co/#home      |            |
+
+
+## To Create Table in README
+http://www.tablesgenerator.com/markdown_tables
