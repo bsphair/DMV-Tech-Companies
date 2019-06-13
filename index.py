@@ -20,9 +20,9 @@ with open('companyList.csv') as csv_file:
         if line_count == 0:
             # print("Company\tCity, State\n")
             line_count = line_count + 1
-            mdFile.write("| Company | City, State | Address | Website | Stack |\n")
-            mdFile.write("| ------------ | ------------ | ------------ | ------------ | ------------ |\n")
+            mdFile.write("| Company | City, State | Website | Stack |\n")
+            mdFile.write("| ------------ |  ------------ | ------------ | ------------ |\n")
         else:
             # print(row[0] + "\t" + row[1])
-            mdFile.write("| " + row[0] + " | " + row[1] + " | " + row[2] + " | " + row[3] + " | " + row[4] + "|\n")
+            mdFile.write("| " + row[0] + " | " + row[1] + " | " + row[2] + " | " + row[3] + " | " + "|\n")
 
