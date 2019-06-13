@@ -12,17 +12,22 @@ Last updated: June 13, 2019
 | Ad Astra Inc. | Silver Spring, MD | https://www.aais.com/careers |  | |
 | Advanced Technology and Research Corporation | Bethesda, MD | http://www.atrcorp.com/careers.html |  | |
 | AECOM | Germantown, MD | https://www.aecom.com/careers/ |  | |
-| American Gastroenterological Association (AGA) | Bethesda, MD | http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a87142e48f393050148f62324cd4c54 |  | |
 | agencyQ | Washington, DC | https://www.agencyq.com/careers |  | |
 | AINS | Gaithersburg, MD | https://www.ains.com/company/careers/ |  | |
+| Akamai | Reston, Va | https://www.akamai.com |  | |
 | Amazon |  | https://www.amazon.jobs |  | |
 | Amdex Corporation | Bethesda, MD | https://amdexcorp.com/careers/ |  | |
+| American Gastroenterological Association (AGA) | Bethesda, MD | http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a87142e48f393050148f62324cd4c54 |  | |
 | American Institute of Research |  | https://www.air.org/page/careers |  | |
+| Appian Corporation | Reston, Va | https://www.appian.com |  | |
 | Arcadia Power |  | https://www.arcadiapower.com/ |  | |
 | ASRC Federal |  | https://www.asrcfederal.com/careers |  | |
 | AtSite |  | http://www.atsiteinc.com/ |  | |
+| Axle Informatics | Rockville, MD | https://axleinfo.com |  | |
 | B.F. Saul | Bethesda, MD | http://www.bfsaulgreatjobs.com |  | |
+| Berico Technologies | Reston, Va | https://www.bericotechnologies.com/impact-through-innovation/ |  | |
 | Bethesda Studios |  | https://bethesdagamestudios.com/#careers |  | |
+| Bitrelish |  | https://www.bitrelish.com/#home-careers |  | |
 | Blue Raster | Reston, Va | https://www.blueraster.com/careers/ |  | |
 | Boeing |  | https://jobs.boeing.com |  | |
 | Booz Allen |  | https://www.boozallen.com/careers.html |  | |
@@ -36,6 +41,7 @@ Last updated: June 13, 2019
 | CIA |  | https://www.cia.gov/careers |  | |
 | CleanChoice Energy |  | https://cleanchoiceenergy.com/ |  | |
 | Coder Kids, Inc | Bethesda, MD |  |  | |
+| Cohere Technology Group, LLC | Reston, Va | http://www.coheretechnology.com/careers/#.XQKPNi2ZP64 |  | |
 | Columbus Technologies and Services | Bethesda, MD | https://www.columbususa.com/careers/ |  | |
 | Commit Enterprises | MD, DC | http://www.commitent.com/career-opportunities.html |  | |
 | Common Securitization Solutions | Bethesda, MD | http://www.commonsecuritization.com |  | |
@@ -45,6 +51,7 @@ Last updated: June 13, 2019
 | Creative Circle |  | https://www.creativecircle.com/careers/ |  | |
 | CyberCoders |  | https://www.cybercoders.com/careers/ |  | |
 | DealerOn | Derwood, MD | https://www.dealeron.com | .Net, .Net Core, C#, ASP.Net, Vue, Totem, Azure | |
+| Dev Technology | Reston, Va | http://devtechnology.com |  | |
 | Dhatronictech |  | http://dhatronictech.com |  | |
 | Distributed Sun |  | http://distributedsun.com/ |  | |
 | DSFederal Inc | Bethesda, MD | https://www.dsfederal.com/careers |  | |
@@ -70,6 +77,7 @@ Last updated: June 13, 2019
 | IHS Markit | Rockville, MD | https://careers.ihsmarkit.com/careers.php |  | |
 | IMS | Rockville, MD | https://www.imsweb.com/employment/ |  | |
 | Industry Drive |  | https://www.industrydive.com/careers/ |  | |
+| Infinite | Rockville, MD | https://www.infinite.com |  | |
 | InstantServe LLC | Bethesda, MD | https://careers.smartrecruiters.com/InstantServeLLC |  | |
 | Integrated Systems Solutions | Silver Spring, MD | https://www.issmgmt.com/career.php |  | |
 | Intelligent Automation | Rockville, MD | https://www.i-a-i.com/about-us/careers/ |  | |
@@ -80,20 +88,24 @@ Last updated: June 13, 2019
 | Leidos |  | https://careers.leidos.com |  | |
 | Lockhead Martin |  | https://www.lockheedmartinjobs.com |  | |
 | Lynker Technologies | Silver Spring, MD | https://www.lynker.com/careers/ |  | |
+| Macedon Technologies | Reston, Va | https://macedontechnologies.com/careers/ |  | |
 | MagView |  | https://www.magview.com/careers/ |  | |
 | ManTech International Corporation | Bethesda, MD | https://www.mantech.com/careers |  | |
 | Mechant Link | Silver Spring, MD | https://www.merchantlink.com/about/job-openings/ |  | |
 | Medical Science & Computing | Bethesda, MD | https://www.mscweb.com/#science-technology-1 |  | |
+| Meso Scale Diagnostics | Gaithersburg, MD | http://www.msd.com/careers/home.html |  | |
 | Micro Focus |  | https://jobs.microfocus.com/global/en |  | |
 | MindX | Bethesda, MD | https://www.mind-x.io/careers |  | |
 | MRP |  | https://www.mrpcareers.com |  | |
 | Northrop Grumman |  | http://www.northropgrumman.com/Careers/Job-Search/ |  | |
+| Novetta |  | https://www.novetta.com |  | |
 | NSA |  | https://www.nsa.gov/careers/ |  | |
 | Palladian Partners | Silver Spring, MD | https://palladianpartners.com/join-us/ |  | |
 | Perspecta | Bethesda, MD | https://careers.perspecta.com |  | |
 | Quorum | Washington, DC | https://www.quorum.us/about/careers/ |  | |
 | Quotient Inc | Bethesda, MD | https://www.quotient-inc.com/careers |  | |
 | Radiant Digital | Bethesda, MD |  |  | |
+| Randstad |  | https://www.randstadusa.com/jobs/careers-at-randstad/ |  | |
 | Raytheon |  | https://jobs.raytheon.com |  | |
 | RCG, Inc | Silver Spring, MD | http://www.rcg.com/careers.html |  | |
 | Redjack | Silver Spring, MD | https://www.redjack.com |  | |
@@ -112,6 +124,8 @@ Last updated: June 13, 2019
 | TDI | Washington, DC | https://www.tdisecurity.com/this-is-tdi/careers/ |  | |
 | Technology Ventures | Bethesda, MD | http://www.tventures.net |  | |
 | Texas Instruments | Germantown, MD | https://careers.ti.com |  | |
+| Thundercat Technology | Reston, Va | https://www.thundercattech.com/about-us/careers/ |  | |
+| Trillion Technology Solutions | Reston, Va | https://www.ttsiglobal.com/about/careers/ |  | |
 | Unissant | Bethesda, MD | https://unissant.us/careers/ |  | |
 | Upside Services |  | https://www.upside-services.com/ |  | |
 | US Department of Commerce | Silver Spring, MD | http://www.commerce.gov/page/career-opportunities-and-internships |  | |
@@ -119,6 +133,7 @@ Last updated: June 13, 2019
 | Verizon |  | https://www.verizon.com/about/careers |  | |
 | Viasat |  | https://careers.viasat.com |  | |
 | Viget | Falls Church,VA | https://www.viget.com/careers/ |  | |
+| Vistronix | Reston, Va | https://recruiting.adp.com/srccar/public/RTI.home?d=ExternalCareerSite&_icx=v02n0_j_jtJlZ0LyllhgIJVtVCR8OSg4UFw5SUt_tn0AMltQcRQj6Y/WskRL4zjAfoD&c=1206101&_dissimuloSSO=BXGv4gXiwNU%3ABUuzI_keQOyMKxXDvfEjNxkNUNA |  | |
 | Vostrom | Washington, DC | http://jobs.vostrom.com |  | |
 | Washington Post | Washington, DC | https://careers.washingtonpost.com |  | |
 | Wells + Associates | Silver Spring, MD | https://www.wellsandassociates.com |  | |
@@ -128,20 +143,5 @@ Last updated: June 13, 2019
 | Xometry, Inc | Bethesda, MD | https://www.xometry.com/careers |  | |
 | Yext |  | https://www.yext.com/careers/ |  | |
 | Zachary Piper Solutions |  | https://careers.zacharypiper.com/job-search/#["Zachary%20Piper%20Solutions"]|||||1 |  | |
-| Zerocycle |  | http://www.zerocycle.co/#home |  | |
-| Infinite | Rockville, MD | https://www.infinite.com |  | |
-| Axle Informatics | Rockville, MD | https://axleinfo.com |  | |
-| Meso Scale Diagnostics | Gaithersburg, MD | http://www.msd.com/careers/home.html |  | |
 | ZeniMax |  | https://jobs.zenimax.com |  | |
-| Randstad |  | https://www.randstadusa.com/jobs/careers-at-randstad/ |  | |
-| Bitrelish |  | https://www.bitrelish.com/#home-careers |  | |
-| Thundercat Technology | Reston, Va | https://www.thundercattech.com/about-us/careers/ |  | |
-| Dev Technology | Reston, Va | http://devtechnology.com |  | |
-| Trillion Technology Solutions | Reston, Va | https://www.ttsiglobal.com/about/careers/ |  | |
-| Berico Technologies | Reston, Va | https://www.bericotechnologies.com/impact-through-innovation/ |  | |
-| Vistronix | Reston, Va | https://recruiting.adp.com/srccar/public/RTI.home?d=ExternalCareerSite&_icx=v02n0_j_jtJlZ0LyllhgIJVtVCR8OSg4UFw5SUt_tn0AMltQcRQj6Y/WskRL4zjAfoD&c=1206101&_dissimuloSSO=BXGv4gXiwNU%3ABUuzI_keQOyMKxXDvfEjNxkNUNA |  | |
-| Cohere Technology Group, LLC | Reston, Va | http://www.coheretechnology.com/careers/#.XQKPNi2ZP64 |  | |
-| Macedon Technologies | Reston, Va | https://macedontechnologies.com/careers/ |  | |
-| Appian Corporation | Reston, Va | https://www.appian.com |  | |
-| Novetta |  | https://www.novetta.com |  | |
-| Akamai | Reston, Va | https://www.akamai.com |  | |
+| Zerocycle |  | http://www.zerocycle.co/#home |  | |
