@@ -13,8 +13,10 @@ with open('companyList.csv') as csv_file:
     mdFile.write("This is a list of tech companies in the DC-Maryland-Virginia (DMV) region. To make an update, please update the csv file and submit a pull request.\n\n")
     mdFile.write("Last updated: " + date + "\n\n")
 
+
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
+    row_count = 0
 
     for row in csv_reader:
         if line_count == 0:
@@ -25,4 +27,6 @@ with open('companyList.csv') as csv_file:
         else:
             # print(row[0] + "\t" + row[1])
             mdFile.write("| " + row[0] + " | " + row[1] + " | " + row[2] + " | " + row[3] + " | " + "|\n")
+            row_count += 1
 
+    mdFile.write("Current job count: " + str(row_count))
