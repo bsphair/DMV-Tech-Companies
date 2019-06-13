@@ -29,4 +29,4 @@ with open('companyList.csv') as csv_file:
             mdFile.write("| " + row[0] + " | " + row[1] + " | " + row[2] + " | " + row[3] + " | " + "|\n")
             row_count += 1
 
-    mdFile.write("Current job count: " + str(row_count))
+    mdFile.write("\nCurrent job count: " + str(row_count) + "\n")
