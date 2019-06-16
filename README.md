@@ -133,6 +133,7 @@ Last updated: June 13, 2019
 | Verizon |  | https://www.verizon.com/about/careers |  | |
 | Viasat |  | https://careers.viasat.com |  | |
 | Viget | Falls Church,VA | https://www.viget.com/careers/ |  | |
+| Visionist Inc | Columbia, MD | https://www.visionistinc.com/#Careers |  | |
 | Vistronix | Reston, Va | https://recruiting.adp.com/srccar/public/RTI.home?d=ExternalCareerSite&_icx=v02n0_j_jtJlZ0LyllhgIJVtVCR8OSg4UFw5SUt_tn0AMltQcRQj6Y/WskRL4zjAfoD&c=1206101&_dissimuloSSO=BXGv4gXiwNU%3ABUuzI_keQOyMKxXDvfEjNxkNUNA |  | |
 | Vostrom | Washington, DC | http://jobs.vostrom.com |  | |
 | Washington Post | Washington, DC | https://careers.washingtonpost.com |  | |
