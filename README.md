@@ -2,7 +2,7 @@
 
 This is a list of tech companies in the DC-Maryland-Virginia (DMV) region. To make an update, please update the csv file and submit a pull request.
 
-Last updated: June 13, 2019
+Last updated: June 18, 2019
 
 | Company | City, State | Website | Stack |
 | ------------ |  ------------ | ------------ | ------------ |
@@ -92,6 +92,7 @@ Last updated: June 13, 2019
 | MagView |  | https://www.magview.com/careers/ |  | |
 | ManTech International Corporation | Bethesda, MD | https://www.mantech.com/careers |  | |
 | Mechant Link | Silver Spring, MD | https://www.merchantlink.com/about/job-openings/ |  | |
+| Media Trust | McLean,VA | https://mediatrust.com/why-us/careers |  | |
 | Medical Science & Computing | Bethesda, MD | https://www.mscweb.com/#science-technology-1 |  | |
 | Meso Scale Diagnostics | Gaithersburg, MD | http://www.msd.com/careers/home.html |  | |
 | Micro Focus |  | https://jobs.microfocus.com/global/en |  | |
@@ -126,15 +127,15 @@ Last updated: June 13, 2019
 | Texas Instruments | Germantown, MD | https://careers.ti.com |  | |
 | Thundercat Technology | Reston, Va | https://www.thundercattech.com/about-us/careers/ |  | |
 | Trillion Technology Solutions | Reston, Va | https://www.ttsiglobal.com/about/careers/ |  | |
-| Unissant | Bethesda, MD | https://unissant.us/careers/ |  | |
+| Unissant | Bethesda |  MD | https://unissant.us/careers/ | |
 | Upside Services |  | https://www.upside-services.com/ |  | |
 | US Department of Commerce | Silver Spring, MD | http://www.commerce.gov/page/career-opportunities-and-internships |  | |
 | Vectorworks |  | https://www.vectorworks.net/careers |  | |
 | Verizon |  | https://www.verizon.com/about/careers |  | |
 | Viasat |  | https://careers.viasat.com |  | |
-| Viget | Falls Church,VA | https://www.viget.com/careers/ |  | |
-| Visionist Inc | Columbia, MD | https://www.visionistinc.com/#Careers |  | |
-| Vistronix | Reston, Va | https://recruiting.adp.com/srccar/public/RTI.home?d=ExternalCareerSite&_icx=v02n0_j_jtJlZ0LyllhgIJVtVCR8OSg4UFw5SUt_tn0AMltQcRQj6Y/WskRL4zjAfoD&c=1206101&_dissimuloSSO=BXGv4gXiwNU%3ABUuzI_keQOyMKxXDvfEjNxkNUNA |  | |
+| Viget | Falls Church | VA | https://www.viget.com/careers/ | |
+| Visionist |  Columbia |  https://www.visionistinc.com/#Careers |  | |
+| Vistronix | Reston |  Va | https://recruiting.adp.com/srccar/public/RTI.home?d=ExternalCareerSite&_icx=v02n0_j_jtJlZ0LyllhgIJVtVCR8OSg4UFw5SUt_tn0AMltQcRQj6Y/WskRL4zjAfoD&c=1206101&_dissimuloSSO=BXGv4gXiwNU%3ABUuzI_keQOyMKxXDvfEjNxkNUNA | |
 | Vostrom | Washington, DC | http://jobs.vostrom.com |  | |
 | Washington Post | Washington, DC | https://careers.washingtonpost.com |  | |
 | Wells + Associates | Silver Spring, MD | https://www.wellsandassociates.com |  | |
@@ -147,4 +148,4 @@ Last updated: June 13, 2019
 | ZeniMax |  | https://jobs.zenimax.com |  | |
 | Zerocycle |  | http://www.zerocycle.co/#home |  | |
 
-Current job count: 139
+Current job count: 141
